@@ -1,0 +1,31 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background: url('food3.png') center/cover no-repeat;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .menu {
+    padding: 50px 0;
+  }
+  
+  .menu-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .menu-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .about,
+  .contact {
+    padding: 50px 0;
+  }
